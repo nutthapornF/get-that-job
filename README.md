@@ -39,7 +39,7 @@ Get That Job is a job-searching platform for anyone who looking for employment 
 </p>
 
 ## Deployed Website Link
-
+https://get-that-job-fantasyy.onrender.com/
 [www.getthatjob.com](https://github.com/techupth/get-that-job)
 
 ## Preview Images
